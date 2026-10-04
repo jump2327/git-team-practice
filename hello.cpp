@@ -6,6 +6,6 @@ int main() {
     std::cout << "Hello from feature branch!" << std::endl;
     std::cout << "Hello from team practice!" << std::endl;
     std::cout << "Working on update-hello!" << std::endl;
-    std::cout << "Rebase practice" << std::endl;
+    std::cout << "Rebase practice from feature" << std::endl;
     return 0;
 }
