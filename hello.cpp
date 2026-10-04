@@ -7,5 +7,6 @@ int main() {
     std::cout << "Hello from team practice!" << std::endl;
     std::cout << "Working on update-hello!" << std::endl;
     std::cout << "Rebase practice from main" << std::endl;
+    std::cout << "Code review practice" << std::endl;
     return 0;
 }
